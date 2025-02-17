@@ -61,7 +61,6 @@ const UpdatePrompt = () => {
             submitting={submitting}
             handleSubmit={updatePrompt}
         />
-
     );
 };
 
